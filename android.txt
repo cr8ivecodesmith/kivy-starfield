@@ -1,0 +1,3 @@
+title=Starfield
+author=Matt Lebrun
+orientation=auto
